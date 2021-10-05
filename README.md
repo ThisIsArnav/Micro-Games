@@ -6,4 +6,4 @@ There are two micro games:
 
 To view the code go to thier ``respective folders``
 
-To view the project go to the ``Angry birds and Doodle jump full project``
+To view the project go to the ``Angry birds and Doodle jump full project`` or click this link: https://github.com/ThisIsArnav/Micro-Games/tree/Angry-birds-and-Doodle-jump-full-project
